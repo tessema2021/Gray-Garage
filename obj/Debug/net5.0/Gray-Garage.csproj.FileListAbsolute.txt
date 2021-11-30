@@ -1,0 +1,16 @@
+C:\Users\OWNER\workspace\Gray-Garage\bin\Debug\net5.0\Gray-Garage.exe
+C:\Users\OWNER\workspace\Gray-Garage\bin\Debug\net5.0\Gray-Garage.deps.json
+C:\Users\OWNER\workspace\Gray-Garage\bin\Debug\net5.0\Gray-Garage.runtimeconfig.json
+C:\Users\OWNER\workspace\Gray-Garage\bin\Debug\net5.0\Gray-Garage.runtimeconfig.dev.json
+C:\Users\OWNER\workspace\Gray-Garage\bin\Debug\net5.0\Gray-Garage.dll
+C:\Users\OWNER\workspace\Gray-Garage\bin\Debug\net5.0\ref\Gray-Garage.dll
+C:\Users\OWNER\workspace\Gray-Garage\bin\Debug\net5.0\Gray-Garage.pdb
+C:\Users\OWNER\workspace\Gray-Garage\obj\Debug\net5.0\Gray-Garage.csproj.AssemblyReference.cache
+C:\Users\OWNER\workspace\Gray-Garage\obj\Debug\net5.0\Gray-Garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\workspace\Gray-Garage\obj\Debug\net5.0\Gray-Garage.AssemblyInfoInputs.cache
+C:\Users\OWNER\workspace\Gray-Garage\obj\Debug\net5.0\Gray-Garage.AssemblyInfo.cs
+C:\Users\OWNER\workspace\Gray-Garage\obj\Debug\net5.0\Gray-Garage.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\workspace\Gray-Garage\obj\Debug\net5.0\Gray-Garage.dll
+C:\Users\OWNER\workspace\Gray-Garage\obj\Debug\net5.0\ref\Gray-Garage.dll
+C:\Users\OWNER\workspace\Gray-Garage\obj\Debug\net5.0\Gray-Garage.pdb
+C:\Users\OWNER\workspace\Gray-Garage\obj\Debug\net5.0\Gray-Garage.genruntimeconfig.cache
